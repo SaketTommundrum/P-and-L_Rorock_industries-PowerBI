@@ -11,6 +11,7 @@ The Rorock P&L Dashboard enables stakeholders to analyze the company’s financi
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Core platform for building interactive visualizations.
+
 📂 Power Query – Used for transforming and cleaning the raw P&L dataset.
 
 🧠 DAX (Data Analysis Expressions) – Applied for dynamic calculations such as YoY changes, gross margin %, and fiscal summaries.
