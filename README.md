@@ -22,6 +22,7 @@ The dataset contains fictional Profit & Loss data for Rorock Industries over sev
 Image Credits: Visual aesthetics enhanced using background images from Pinterest. Full credit to the original designers and contributors.
 
 💡 Features / Highlights
+
 • Business Problem
 Finance teams often rely on static Excel reports to analyze company performance, which limits interactivity and real-time comparisons. Decision-makers need an efficient tool to track key financial KPIs across fiscal years and make informed strategic calls.
 
@@ -61,6 +62,7 @@ Training & Learning: A great learning tool for finance professionals exploring d
 You can include screenshots of the dashboard here once exported as .png or .jpg files.
 
 Example placement:
+
 Landing Page:
 ![image](https://github.com/user-attachments/assets/a1b4f2a5-d60c-4e95-8042-69a6c13f00de)
 
