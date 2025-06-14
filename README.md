@@ -1,10 +1,13 @@
-📊 Rorock P&L Insights Dashboard
+📊 Rorock P&L Insights Dashboard:
+
 A powerful Power BI report offering interactive visualization of Profit & Loss statements for Rorock Industries. Designed for quick financial analysis and executive decision-making across revenue, expenses, and net profit metrics.
 
-📌 Short Description / Purpose
+📌 Short Description / Purpose:
+
 The Rorock P&L Dashboard enables stakeholders to analyze the company’s financial performance over multiple fiscal years. It helps executives, analysts, and finance teams monitor key metrics like revenue, cost of goods sold, gross margin, operating profit, and net income. With an intuitive interface and dynamic visuals, it simplifies complex financial reporting into digestible insights.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Core platform for building interactive visualizations.
 📂 Power Query – Used for transforming and cleaning the raw P&L dataset.
@@ -12,10 +15,10 @@ The dashboard was built using the following tools and technologies:
 📝 Data Modeling – Relationships between calendar, fiscal period, and P&L line items enable time-based filtering and slicing.
 📁 File Format – .pbit Power BI template for flexible reuse, and .png for showcasing dashboard screenshots.
 
-📚 Data Source
+📚 Data Source:
+
 Dataset Source: Codebasics YouTube & GitHub tutorials – a curated learning platform for data science and analytics.
 The dataset contains fictional Profit & Loss data for Rorock Industries over several fiscal years, categorized by account types like revenue, operating expenses, and profit figures.
-
 Image Credits: Visual aesthetics enhanced using background images from Pinterest. Full credit to the original designers and contributors.
 
 💡 Features / Highlights
