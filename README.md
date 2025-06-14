@@ -1,6 +1,6 @@
 📊 Rorock P&L Insights Dashboard:
 
-A powerful Power BI report offering interactive visualization of Profit & Loss statements for Rorock Industries. Designed for quick financial analysis and executive decision-making across revenue, expenses, and net profit metrics.
+A powerful Power BI report offering interactive visualization of Profit & Loss statements for Rorock Industries(hypothetical). Designed for quick financial analysis and executive decision-making across revenue, expenses, and net profit metrics.
 
 📌 Short Description / Purpose:
 
