@@ -23,17 +23,17 @@ Image Credits: Visual aesthetics enhanced using background images from Pinterest
 
 💡 Features / Highlights
 
-• Business Problem
+• Business Problem -
 Finance teams often rely on static Excel reports to analyze company performance, which limits interactivity and real-time comparisons. Decision-makers need an efficient tool to track key financial KPIs across fiscal years and make informed strategic calls.
 
-• Goal of the Dashboard
+• Goal of the Dashboard -
 To provide an interactive dashboard that:
 Clearly presents P&L structure: Revenue → Expenses → Net Income
 Supports YoY and variance analysis for core financial KPIs
 Enables quick executive-level insight for strategic decision-making
 Simplifies audit and reporting cycles for finance teams
 
-• Walkthrough of Key Visuals
+• Walkthrough of Key Visuals - 
 Top KPIs (Top Bar)
 Showcases core metrics: Total Revenue, Gross Margin %, Operating Profit, Net Income, and Fiscal Year filters.
 
@@ -52,7 +52,7 @@ Offers a percentage-based view of financial health, especially useful for tracki
 Dynamic Filters & Slicers
 Users can filter visuals by fiscal year, account type, or P&L category to isolate specific trends.
 
-• Business Impact & Insights
+• Business Impact & Insights - 
 Strategic Monitoring: Helps leadership assess profitability trends over time.
 Cost Control: Identifies which expense categories consume the most revenue.
 Performance Review: Assists in preparing for board reviews, quarterly meetings, or audits.
