@@ -24,6 +24,7 @@ The dashboard was built using the following tools and technologies:
 
 Dataset Source: Codebasics YouTube & GitHub tutorials – a curated learning platform for data science and analytics.
 The dataset contains fictional Profit & Loss data for Rorock Industries over several fiscal years, categorized by account types like revenue, operating expenses, and profit figures.
+
 Image Credits: Visual aesthetics enhanced using background images from Pinterest. Full credit to the original designers and contributors.
 
 💡 Features / Highlights
