@@ -34,35 +34,46 @@ Finance teams often rely on static Excel reports to analyze company performance,
 
 • Goal of the Dashboard -
 To provide an interactive dashboard that:
+
 Clearly presents P&L structure: Revenue → Expenses → Net Income
-Supports YoY and variance analysis for core financial KPIs
-Enables quick executive-level insight for strategic decision-making
-Simplifies audit and reporting cycles for finance teams
+
+Supports YoY and variance analysis for core financial KPIs.
+Enables quick executive-level insight for strategic decision-making.
+Simplifies audit and reporting cycles for finance teams.
 
 • Walkthrough of Key Visuals - 
 
-Top KPIs (Top Bar)
+Top KPIs (Top Bar) - 
+
 Showcases core metrics: Total Revenue, Gross Margin %, Operating Profit, Net Income, and Fiscal Year filters.
 
-Year-over-Year Comparison (Bar + Line Chart)
+Year-over-Year Comparison (Bar + Line Chart) - 
 Revenue, Gross Profit, and Net Profit visualized across fiscal years, with YoY change bars layered with trend lines for clarity.
 
-P&L Breakdown (Stacked Bar Chart)
+P&L Breakdown (Stacked Bar Chart) - 
+
 A visual deconstruction of the P&L statement to show how each cost and revenue category contributes to the bottom line.
 
-Operating & Non-Operating Expenses (Stacked Column)
+Operating & Non-Operating Expenses (Stacked Column) - 
+
 Highlights how operational expenses and other financial items (like depreciation or taxes) influence profitability.
 
-Gross Margin & Net Margin % (Card & Trend)
+Gross Margin & Net Margin % (Card & Trend) - 
+
 Offers a percentage-based view of financial health, especially useful for tracking profitability improvement efforts.
 
-Dynamic Filters & Slicers
+Dynamic Filters & Slicers - 
+
 Users can filter visuals by fiscal year, account type, or P&L category to isolate specific trends.
 
 • Business Impact & Insights - 
+
 Strategic Monitoring: Helps leadership assess profitability trends over time.
+
 Cost Control: Identifies which expense categories consume the most revenue.
+
 Performance Review: Assists in preparing for board reviews, quarterly meetings, or audits.
+
 Training & Learning: A great learning tool for finance professionals exploring dashboard creation.
 
 📸 Screenshots / Demos
