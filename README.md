@@ -34,6 +34,7 @@ Enables quick executive-level insight for strategic decision-making
 Simplifies audit and reporting cycles for finance teams
 
 • Walkthrough of Key Visuals - 
+
 Top KPIs (Top Bar)
 Showcases core metrics: Total Revenue, Gross Margin %, Operating Profit, Net Income, and Fiscal Year filters.
 
