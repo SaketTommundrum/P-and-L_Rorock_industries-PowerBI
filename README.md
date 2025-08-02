@@ -69,9 +69,6 @@ Performance Review: Assists in preparing for board reviews, quarterly meetings, 
 Training & Learning: A great learning tool for finance professionals exploring dashboard creation.
 
 📸 Screenshots / Demos
-You can include screenshots of the dashboard here once exported as .png or .jpg files.
-
-Example placement:
 
 Landing Page:
 ![image](https://github.com/user-attachments/assets/a1b4f2a5-d60c-4e95-8042-69a6c13f00de)
